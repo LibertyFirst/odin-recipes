@@ -1,0 +1,38 @@
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fruits {
+    color: yellow;
+}
+
+h1 {
+    font-size:32px;
+    font-weight: 800;
+    color: greenyellow;
+    text-align: center;
+    border: dotted;
+    border-color: orangered;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 800;
+    color: brown;
+}
+
+body {
+    text-align: center;
+}
+
+.main {
+    border: double;
+    border-color: red;
+    width: 50%;
+    position:relative;
+    left:10%;
+}
+
+#red {
+    color: red;
+}
